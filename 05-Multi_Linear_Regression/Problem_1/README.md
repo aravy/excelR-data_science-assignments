@@ -2,7 +2,7 @@
 ### Problem 1
 Prepare a prediction model for profit of 50_startups data.
 Do transformations for getting better predictions of profit and
-make a table containing R<sup>2<sup/> value for each prepared model.
+make a table containing R<sup>2</sup> value for each prepared model.
 
 <table>
 <tr>
